@@ -1,0 +1,51 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                     XX                     X
+X o ................. XX ................. o X
+X         .         . XX .         .         X
+X . XXXXX . XXXXXXX . XX . XXXXXXX . XXXXX . X
+X . XXXXX . XXXXXXX . XX . XXXXXXX . XXXXX . X
+X . XXXXX . XXXXXXX . XX . XXXXXXX . XXXXX . X
+X .       .         .    .         .       . X
+X .......................................... X
+X .       .    .              .    .       . X
+X . XXXXX . XX . XXXXXXXXXXXX . XX . XXXXX . X
+X . XXXXX . XX . XXXXXXXXXXXX . XX . XXXXX . X
+X .       . XX .      XX      . XX .       . X
+X ......... XX ...... XX ...... XX ......... X
+X         . XX      . XX .      XX .         X
+XXXXXXXXX . XXXXXXX . XX . XXXXXXX . XXXXXXXXX
+XXXXXXXXX . XXXXXXX . XX . XXXXXXX . XXXXXXXXX
+XXXXXXXXX . XX      .    .      XX . XXXXXXXXX
+XXXXXXXXX . XX ................ XX . XXXXXXXXX
+XXXXXXXXX . XX .              . XX . XXXXXXXXX
+XXXXXXXXX . XX . XXXXxxxxXXXX . XX . XXXXXXXXX
+XXXXXXXXX . XX . X          X . XX . XXXXXXXXX
+          .    . X          X .    .
+................ X          X ................
+          .    . X          X .    .
+XXXXXXXXX . XX . X          X . XX . XXXXXXXXX
+XXXXXXXXX . XX . XXXXXXXXXXXX . XX . XXXXXXXXX
+XXXXXXXXX . XX .              . XX . XXXXXXXXX
+XXXXXXXXX . XX .......  ....... XX . XXXXXXXXX
+XXXXXXXXX . XX .              . XX . XXXXXXXXX
+XXXXXXXXX . XX . XXXXXXXXXXXX . XX . XXXXXXXXX
+XXXXXXXXX . XX . XXXXXXXXXXXX . XX . XXXXXXXXX
+X         .    .      XX      .    .         X
+X o ................. XX ................. o X
+X         .         . XX .         .         X
+X . XXXXX . XXXXXXX . XX . XXXXXXX . XXXXX . X
+X . XXXXX . XXXXXXX . XX . XXXXXXX . XXXXX . X
+X .    XX .         .    .         . XX    . X
+X .... XX .......................... XX .... X
+X    . XX .    .              .    . XX .    X
+XXXX . XX . XX . XXXXXXXXXXXX . XX . XX . XXXX
+XXXX . XX . XX . XXXXXXXXXXXX . XX . XX . XXXX
+X    .    . XX .      XX      . XX .    .    X
+X ......... XX ...... XX ...... XX ......... X
+X .         XX      . XX .      XX         . X
+X . XXXXXXXXXXXXXXX . XX . XXXXXXXXXXXXXXX . X
+X . XXXXXXXXXXXXXXX . XX . XXXXXXXXXXXXXXX . X
+X                   .    .                   X
+X o ...................................... o X
+X                                            X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
